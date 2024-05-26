@@ -28,14 +28,10 @@
 ## ✍️ Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 🌸 Connect with me
+# 🩵 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/batoolkazmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/batoolkazmi" height="30" width="40" /></a>
 <a href="https://instagram.com/_humain_ain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_humain_ain" height="30" width="40" /></a>
 </p>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=batoolkazmi&icon=7&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
