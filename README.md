@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Batool Kazmi</h1>
 <h3 align="center">2nd Year Computer Science Student, who is passionate about Web Developement</h3>
 
-[![](https://visitcount.itsvg.in/api?id=batoolkazmi&icon=7&color=10)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batoolkazmi&label=Profile%20views&color=0e75b6&style=flat" alt="batoolkazmi" /> </p>
 
 - 👩‍🎓 Currently pursuing Computer Science with Co-op at Trent University.
@@ -39,6 +38,7 @@
 <a href="https://instagram.com/_humain_ain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_humain_ain" height="30" width="40" /></a>
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=batoolkazmi&icon=7&color=10)](https://visitcount.itsvg.in)
 
 ---
 
