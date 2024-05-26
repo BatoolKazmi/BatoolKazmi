@@ -1,8 +1,7 @@
 <h1 align="center">Hello 👋, I'm Batool Kazmi</h1>
 <h3 align="center">2nd Year Computer Science Student, who is passionate about Web Developement</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=batoolkazmi&label=Profile%20views&color=0e75b6&style=flat" alt="batoolkazmi" /> </p>
-
+![](https://komarev.com/ghpvc/?username=batoolkazmi&color=e07a5f&style=flat)
 
 ### 🌺 About Me
 
@@ -34,15 +33,12 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=batoolkazmi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=batoolkazmi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=batoolkazmi&theme=dracula&hide_border=false)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=batoolkazmi&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=batoolkazmi&theme=dracula&hide_border=false)
-
-
-
-
 
 [![](https://visitcount.itsvg.in/api?id=batoolkazmi&icon=7&color=10)](https://visitcount.itsvg.in)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=batoolkazmi&icon=2&color=5)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
