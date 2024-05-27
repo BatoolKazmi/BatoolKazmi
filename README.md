@@ -2,7 +2,7 @@
 <h3 align="center">2nd Year Computer Science Student, who is passionate about Web Developement</h3>
 
 <!-- ![](https://komarev.com/ghpvc/?username=batoolkazmi&color=e07a5f&style=flat) -->
-[![](https://visitcount.itsvg.in/api?id=batoolkazmi&icon=7&color=10)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=batoolkazmi&icon=7&color=10)
 
 ### 🌺 About Me
 
@@ -47,5 +47,5 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=batoolkazmi&icon=7&color=10)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=batoolkazmi&icon=7&color=10)
 
