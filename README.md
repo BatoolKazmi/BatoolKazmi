@@ -7,10 +7,9 @@
 ### 🌺 About Me
 
 - 👩‍🎓 Currently pursuing Computer Science with Co-op at Trent University.
-- 👀 Seeking a placement for the upcoming fall term.
+- 👀 Seeking a placement for the upcoming summer term.
 - 🌷 I’m currently learning **DataStructure & Algoritm, Web Development: Server-side and Data Management (React, PHP & SQL)**
 - 💕 I’m looking to collaborate on **Any web development Projects**
-- 🔭 I’m currently working on [BobaLover](https://lovely-monstera-8dd8f5.netlify.app/) using Cohere's API
 - 📫 You can reach me through **[Linkedin](https://www.linkedin.com/in/batoolkazmi)**
 - 💗 Let's connect and explore opportunities!
 
