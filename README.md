@@ -47,10 +47,5 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=batoolkazmi&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ![](https://visitcount.itsvg.in/api?id=batoolkazmi&icon=7&color=10)
 
